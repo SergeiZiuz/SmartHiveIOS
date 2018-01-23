@@ -54,14 +54,22 @@
 		2E26DA71201731DF00FB383F /* SmartHiveIOS */ = {
 			isa = PBXGroup;
 			children = (
-				2E26DA72201731DF00FB383F /* AppDelegate.swift */,
 				2E26DA74201731DF00FB383F /* ViewController.swift */,
 				2E26DA76201731DF00FB383F /* Main.storyboard */,
-				2E26DA79201731DF00FB383F /* Assets.xcassets */,
-				2E26DA7B201731DF00FB383F /* LaunchScreen.storyboard */,
 				2E26DA7E201731DF00FB383F /* Info.plist */,
+				2E26DA842017321D00FB383F /* SupportingFiles */,
 			);
 			path = SmartHiveIOS;
+			sourceTree = "<group>";
+		};
+		2E26DA842017321D00FB383F /* SupportingFiles */ = {
+			isa = PBXGroup;
+			children = (
+				2E26DA72201731DF00FB383F /* AppDelegate.swift */,
+				2E26DA79201731DF00FB383F /* Assets.xcassets */,
+				2E26DA7B201731DF00FB383F /* LaunchScreen.storyboard */,
+			);
+			path = SupportingFiles;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
